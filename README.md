@@ -34,7 +34,7 @@ I started #100DaysofCode with the purpose of just getting used to programming an
 
 - **Today's Topics/Progress:** FizzBuzz program
 - **Thoughts:** This program outputs numbers from 1 to 100. But for multiples of 3, it will print `Fizz` instead of the number and for the multiples of 5, it will print `Buzz`. For numbers which are multiples of both 3 and 5 it will print, `FizzBuzz`.
-- **Link to work:** [100-days-of-code/projects/Day 04 - FizzBuzz at master · kamriesan/100-days-of-code (github.com)](https://github.com/kamriesan/100-days-of-code/tree/master/projects/Day%2004%20-%20FizzBuzz)
+- **Link to work:** [FizzBuzz](https://github.com/kamriesan/100-days-of-code/tree/master/projects/Day%2004%20-%20FizzBuzz)
 
 # **Day 5: March 26, 2022**
 
