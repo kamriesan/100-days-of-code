@@ -1,5 +1,4 @@
-//@kamriesan_
-//100 days of Code 1-100 automated text format
+
 #include <iostream>
 using namespace std;
 
