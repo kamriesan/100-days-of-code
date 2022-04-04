@@ -13,7 +13,7 @@ I started #100DaysofCode with the purpose of just getting used to programming an
 # **Day 1: Feb. 21, 2022**
 
 - **Today's Topics/Progress:** Learned basic Java Syntax
-- **Thoughts:** I completed the mandatory “Hello World” program among others in [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java). I also learned about classes, methods, print statements. Got frustrated for about 5 mins only to realize I should use the lowercase letter "L" instead of the uppercase "I" for `System.out.println()` 🤣
+- **Thoughts:** I completed the mandatory “Hello World” program among others in Codecademy's Learn Java. I also learned about classes, methods, print statements. Got frustrated for about 5 mins only to realize I should use the lowercase letter "L" instead of the uppercase "I" for `System.out.println()` 🤣
 - **Link to work:** [Java Syntax](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2001%20-%20Java%20Syntax/practice.java)
 
 # **Day 2: Feb. 26, 2022**
@@ -40,7 +40,7 @@ I started #100DaysofCode with the purpose of just getting used to programming an
 # **Day 5: March 26, 2022**
 
 - **Today's Topics/Progress:** Learned Linked and Binary Search Implementation (Data Structures and Algorithm)
-- **Notes:** Today, I just passively consumed learning materials about the following from freeCodeCamp’s [Algorithms and Data Structures Tutorial - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=8hly31xKli0&t=2246s&ab_channel=freeCodeCamp.org):
+- **Notes:** Today, I just passively consumed learning materials about the following from freeCodeCamp’s Algorithms and Data Structures Tutorial.
     - Linear Search Implementations
     - Binary Search
 - **Link to work:** [Linear and Binary Search Implementation Notes](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2005%20-%20Linear%20and%20Binary%20Search%20Implementation%20Notes%20(DSA)/(DSA)%20Linear%20and%20Binary%20Search%20Implementation%20Notes.md)
@@ -48,7 +48,7 @@ I started #100DaysofCode with the purpose of just getting used to programming an
 # **Day 6: March 27, 2022**
 
 - **Today's Topics/Progress:** Coding Contest program
-- **Thoughts:** This program practices array and loop skills. It initially requires the number of teams for input. This value shall determine the number of loop iterations to print how many teams will be needed to input their details (Team Name, Team Course, Team Score). Next, the Contest Statistics will use all of the values inputted from the Team Scores, all shall be averaged. The program should print the Champion team, and all remainin teams with above average scores. Creating the [Certification Exam Result Program](https://github.com/kamriesan/100-Days-of-Code-Challenge/tree/main/Day%2003%20-%20Certification%20Exam%20Result) allowed me to understand arrays and loops. Making this program for today honed my programming logic speed. 
+- **Thoughts:** This program practices array and loop skills. It initially requires the number of teams for input. This value shall determine the number of loop iterations to print how many teams will be needed to input their details (Team Name, Team Course, Team Score). Next, the Contest Statistics will use all of the values inputted from the Team Scores, all shall be averaged. The program should print the Champion team, and all remainin teams with above average scores. Creating the [Certification Exam Result Program](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2003%20-%20Certification%20Exam%20Result/Certification.cpp) allowed me to understand arrays and loops. Making this program for today honed my programming logic speed. 
 - **Link to work:** [Coding Contest](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2006%20-%20Coding%20Contest/CodingContest.cpp)
  
  ![image](https://user-images.githubusercontent.com/90206481/161630860-690ab88e-a972-475e-a66d-7ab47011a290.png)
