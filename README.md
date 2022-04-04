@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfCode Challenge 🌍
 
 ## Contents
 
@@ -7,51 +7,86 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
+## Start
+I started #100DaysofCode with the purpose of just getting used to programming and practicing logic regardless of whatever language. I used Java on the first days. But I’ll be using C++ on most cases. My journey on getting familiar with C++. College is quite hectic and daily uploads may not be as possible for me, so I’m planning to just work on this on my own pace. 
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+# **Day 1: Feb. 21, 2022**
 
-## If you've decided to join:
+- **Today's Topics/Progress:** Learned basic Java Syntax
+- **Thoughts:** I completed the mandatory “Hello World” program among others in [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java). I also learned about classes, methods, print statements. Got frustrated for about 5 mins only to realize I should use the lowercase letter "L" instead of the uppercase "I" for `System.out.println()` 🤣
+- **Link to work:** [Java Syntax](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2001%20-%20Java%20Syntax/practice.java)
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+# **Day 2: Feb. 26, 2022**
 
-## ⚡ Interested in meaningfully changing your life & getting the results you want?
+- **Today's Topics/Progress:** Created a simple Mad Lib program. Learned Java variables, operators, string concatenation
+- **Thoughts** Codeacademy instructs users to program a simple Mad Lib program. I researched what Mad Lib meant and realized its similarities with Cards Against Humanity. This gave me an app idea that I will be saving for later.
+- **Link to work: [Mad Lib Program](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2002%20-%20MadLib%20Cards%20Against%20Humanity/main.java)**
 
-I publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
+# **Day 3: March 23, 2022**
 
-The themes covered are:
-- **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
-- **Book Recommendations & Takeaways**. Get awesome book recommendations and golden nuggets of wisdom extracted from these books so you can put them into action right away!
-- **Personal Finance**. Even tiny change you make about how you manage your money will bring mind-boggling results over time. Find out what these changes are!
-- **Starting a Business**. Whether you're a wanna-be indie maker or want to become the next Elon Musk, you will find some great resources here!
-- **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
-- **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
-- **Other topics**. Psychology, learning to code, alternative lifestyles and more.
-
-Join the Do the Opposite Community!
-
-💌 [SUBSCRIBE to the newsletter and start changing your life!](https://dotheopposite.substack.com/)
+- **Today's Topics/Progress:** Certification Exam Result Program
+- **Thoughts:** This is a sample problem from my class that prints pass/fail in examinations (ex. College Entrance Tests). I learned how to work with booleans, and practiced using arrays in for loops. I'm hyped to write this because I had the rare chance of naming a variable 'catAss' 😸. Aside from that, my programmming eureka happened during the creation of this program. I was able to confidently grasp C++ loops, if else statements, booleans, and logical operators. 
+- **Link to Work:** [Certification Exam Result Program](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2003%20-%20Certification%20Exam%20Result/Certification.cpp)
+ ![image](https://user-images.githubusercontent.com/90206481/161630739-24d865e5-8ed9-445f-87a5-5d841516a5da.png)
 
 
-## Want to change other habits?
+# **Day 4: March 24, 2022**
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+- **Today's Topics/Progress:** FizzBuzz program
+- **Thoughts:** This program outputs numbers from 1 to 100. But for multiples of 3, it will print `Fizz` instead of the number and for the multiples of 5, it will print `Buzz`. For numbers which are multiples of both 3 and 5 it will print, `FizzBuzz`.
+- **Link to work:** [100-days-of-code/projects/Day 04 - FizzBuzz at master · kamriesan/100-days-of-code (github.com)](https://github.com/kamriesan/100-days-of-code/tree/master/projects/Day%2004%20-%20FizzBuzz)
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+# **Day 5: March 26, 2022**
 
-## Note
+- **Today's Topics/Progress:** Learned Linked and Binary Search Implementation (Data Structures and Algorithm)
+- **Notes:** Today, I just passively consumed learning materials about the following from freeCodeCamp’s [Algorithms and Data Structures Tutorial - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=8hly31xKli0&t=2246s&ab_channel=freeCodeCamp.org):
+    - Linear Search Implementations
+    - Binary Search
+- **Link to work:** [Linear and Binary Search Implementation Notes](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2005%20-%20Linear%20and%20Binary%20Search%20Implementation%20Notes%20(DSA)/(DSA)%20Linear%20and%20Binary%20Search%20Implementation%20Notes.md)
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+# **Day 6: March 27, 2022**
+
+- **Today's Topics/Progress:** Coding Contest program
+- **Thoughts:** This program practices array and loop skills. It initially requires the number of teams for input. This value shall determine the number of loop iterations to print how many teams will be needed to input their details (Team Name, Team Course, Team Score). Next, the Contest Statistics will use all of the values inputted from the Team Scores, all shall be averaged. The program should print the Champion team, and all remainin teams with above average scores. Creating the [Certification Exam Result Program](https://github.com/kamriesan/100-Days-of-Code-Challenge/tree/main/Day%2003%20-%20Certification%20Exam%20Result) allowed me to understand arrays and loops. Making this program for today honed my programming logic speed. 
+- **Link to work:** [Coding Contest](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2006%20-%20Coding%20Contest/CodingContest.cpp)
+ ![image](https://user-images.githubusercontent.com/90206481/161630860-690ab88e-a972-475e-a66d-7ab47011a290.png)
+
+
+# **Day 7: March 28, 2022**
+
+- **Today's Topics/Progress:** GPA Calculator
+ **Thoughts:** I had fun learning about arrays, so I wanted to try another machine problem about it to strengthen my mental muscle. I made a GWA Calculator that has a formula similar to the one I have in my university. This program idea is inspired by [@ShaKKiroh](https://twitter.com/ShaKKiroh) on Twitter.
+    
+    **Algorithm:**
+    
+    1. Input the course details; name, units, grade
+    2. Compute for the summation of all total units
+    3. Multiply the grade and number of units for each course
+    4. Compute for the summation of all the product of grade and units
+    5. For the final GWA, divide the product of each course grades and units to the Summation of all units.
+- **Link to work:** GPA Calculator
+ ![image](https://user-images.githubusercontent.com/90206481/161630941-172b5e45-d0a7-45ee-937e-fca6985fcac1.png)
+
+# **Day 8: March 28, 2022**
+
+- **Today's Topics/Progress:** Given 2 MxN matrix, display all matching elements, determine if the 2 matrices are equal or not.
+- **Thoughts:** I had a quite a struggle with setting the logical operators for the array size.
+- **Link to work:** [Matrices Equality](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2008%20-%20Matrices%20Equality/Matrices%20Equality.cpp)
+- ![image](https://user-images.githubusercontent.com/90206481/161631145-62bdf497-e286-4a4e-9e1a-30c940ea4b09.png)
+
+# Day 9: April 4, 2022
+
+- **Today's Topics/Progress:** Created a program that multiplies matrices
+- **Thoughts:** The logic behind this one's extra challenging. Nevertheless, it was quite fun to code.
+- **Link to work:** [Matrices Multiplication](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2009%20-%20Matrices%20Multiplication/C%20Program%20for%20Matrix%20Multiplication.c)
+ ![image](https://user-images.githubusercontent.com/90206481/161631238-98f7b8f5-968f-4894-9084-8d428257c8e0.png)
+
+# Day 10: April 5, 2022
+
+- **Today's Topics/Progress:** Learned Pointers + Created a mini-program that helped me organize my Notion and 100 days of Code Documentation
+- **Thoughts:** For learning about pointers, I finished half of NesoAcademy’s videos. I finally knew more about pointers which had been lagging me from my college classes. Also, I experienced one of the great joys in coding—it’s being able to automate personal tasks. While seemingly menial, this has been fulfilling as I am able to use coding to aid me in a personal task.
+**My problem:** I wanted to copy-paste the format of 100 days of code in a Notion Page to set it for the future from my current progress up to Day 100. I initially made something without  text formatting until I realized I could use Notion’s built-in which is also recognizable in my GitHub repository. This has been exciting as it has been the first time I was able to use coding to aid me in something.
+- **Link to work: [100DoC Automated Text Format](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2010%20-%20100DOC%20Automated%20Format/100%20days%20of%20Code%20Automated%20Format.cpp)**
+![DAY10](https://user-images.githubusercontent.com/90206481/161631442-5c7979d1-18b8-4cad-89a9-11026034186c.gif)
+
+
