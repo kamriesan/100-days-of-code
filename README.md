@@ -90,6 +90,7 @@ I started #100DaysofCode with the purpose of just getting used to programming an
 
 - **Today's Topics/Progress:** Learned Pointers + Created a mini-program that helped me organize my Notion and 100 days of Code Documentation
 - **Thoughts:** For learning about pointers, I finished half of NesoAcademy’s videos. I finally knew more about pointers which had been lagging me from my college classes. Also, I experienced one of the great joys in coding—it’s being able to automate personal tasks. While seemingly menial, this has been fulfilling as I am able to use coding to aid me in a personal task.
+
 **My problem:** I wanted to copy-paste the format of 100 days of code in a Notion Page to set it for the future from my current progress up to Day 100. I initially made something without  text formatting until I realized I could use Notion’s built-in which is also recognizable in my GitHub repository. This has been exciting as it has been the first time I was able to use coding to aid me in something.
 - **Link to work: [100DoC Automated Text Format](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2010%20-%20100DOC%20Automated%20Format/100%20days%20of%20Code%20Automated%20Format.cpp)**
 ![DAY10](https://user-images.githubusercontent.com/90206481/161631442-5c7979d1-18b8-4cad-89a9-11026034186c.gif)
