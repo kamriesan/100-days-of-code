@@ -27,7 +27,8 @@ I started #100DaysofCode with the purpose of just getting used to programming an
 - **Today's Topics/Progress:** Certification Exam Result Program
 - **Thoughts:** This is a sample problem from my class that prints pass/fail in examinations (ex. College Entrance Tests). I learned how to work with booleans, and practiced using arrays in for loops. I'm hyped to write this because I had the rare chance of naming a variable 'catAss' 😸. Aside from that, my programmming eureka happened during the creation of this program. I was able to confidently grasp C++ loops, if else statements, booleans, and logical operators. 
 - **Link to Work:** [Certification Exam Result Program](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2003%20-%20Certification%20Exam%20Result/Certification.cpp)
- ![image](https://user-images.githubusercontent.com/90206481/161630739-24d865e5-8ed9-445f-87a5-5d841516a5da.png)
+ 
+![image](https://user-images.githubusercontent.com/90206481/161630739-24d865e5-8ed9-445f-87a5-5d841516a5da.png)
 
 
 # **Day 4: March 24, 2022**
@@ -49,6 +50,7 @@ I started #100DaysofCode with the purpose of just getting used to programming an
 - **Today's Topics/Progress:** Coding Contest program
 - **Thoughts:** This program practices array and loop skills. It initially requires the number of teams for input. This value shall determine the number of loop iterations to print how many teams will be needed to input their details (Team Name, Team Course, Team Score). Next, the Contest Statistics will use all of the values inputted from the Team Scores, all shall be averaged. The program should print the Champion team, and all remainin teams with above average scores. Creating the [Certification Exam Result Program](https://github.com/kamriesan/100-Days-of-Code-Challenge/tree/main/Day%2003%20-%20Certification%20Exam%20Result) allowed me to understand arrays and loops. Making this program for today honed my programming logic speed. 
 - **Link to work:** [Coding Contest](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2006%20-%20Coding%20Contest/CodingContest.cpp)
+ 
  ![image](https://user-images.githubusercontent.com/90206481/161630860-690ab88e-a972-475e-a66d-7ab47011a290.png)
 
 
@@ -65,21 +67,24 @@ I started #100DaysofCode with the purpose of just getting used to programming an
     4. Compute for the summation of all the product of grade and units
     5. For the final GWA, divide the product of each course grades and units to the Summation of all units.
 - **Link to work:** GPA Calculator
- ![image](https://user-images.githubusercontent.com/90206481/161630941-172b5e45-d0a7-45ee-937e-fca6985fcac1.png)
+
+![image](https://user-images.githubusercontent.com/90206481/161630941-172b5e45-d0a7-45ee-937e-fca6985fcac1.png)
 
 # **Day 8: March 28, 2022**
 
 - **Today's Topics/Progress:** Given 2 MxN matrix, display all matching elements, determine if the 2 matrices are equal or not.
 - **Thoughts:** I had a quite a struggle with setting the logical operators for the array size.
 - **Link to work:** [Matrices Equality](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2008%20-%20Matrices%20Equality/Matrices%20Equality.cpp)
-- ![image](https://user-images.githubusercontent.com/90206481/161631145-62bdf497-e286-4a4e-9e1a-30c940ea4b09.png)
+
+![image](https://user-images.githubusercontent.com/90206481/161631145-62bdf497-e286-4a4e-9e1a-30c940ea4b09.png)
 
 # Day 9: April 4, 2022
 
 - **Today's Topics/Progress:** Created a program that multiplies matrices
 - **Thoughts:** The logic behind this one's extra challenging. Nevertheless, it was quite fun to code.
 - **Link to work:** [Matrices Multiplication](https://github.com/kamriesan/100-days-of-code/blob/master/projects/Day%2009%20-%20Matrices%20Multiplication/C%20Program%20for%20Matrix%20Multiplication.c)
- ![image](https://user-images.githubusercontent.com/90206481/161631238-98f7b8f5-968f-4894-9084-8d428257c8e0.png)
+
+![image](https://user-images.githubusercontent.com/90206481/161631238-98f7b8f5-968f-4894-9084-8d428257c8e0.png)
 
 # Day 10: April 5, 2022
 
